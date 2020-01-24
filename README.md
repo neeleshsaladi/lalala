@@ -17,9 +17,9 @@ Food is life
 2. Bawarchi
 3. P house
 
-<p><a href="https://www.indianeagle.com/travelbeats/funny-interesting-biryani-stories-in-india/">Stories</a>Some of the Interesting and funny stories that were happend becuase of the Biryani.</p>
+<p><a href="https://www.indianeagle.com/travelbeats/funny-interesting-biryani-stories-in-india/">Stories</a> Some of the Interesting and funny stories that were happend becuase of the Biryani.</p>
 
-#### <p><a href="https://www.indianhealthyrecipes.com/hyderabadi-biryani-recipe/">Recipe</a> for the dish.</p>
+<p><a href="https://www.indianhealthyrecipes.com/hyderabadi-biryani-recipe/">Recipe</a> for the dish.</p>
 
 <p><a href="https://www.instagram.com/_the.believer/">Instagram</a> click here Follow me.</p>
  
