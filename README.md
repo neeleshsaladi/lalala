@@ -23,5 +23,5 @@ Food is life
 #### recipe for the dish 
 [retr](https://www.indianhealthyrecipes.com/hyderabadi-biryani-recipe/)
 
-<p><a href="https://www.instagram.com/_the.believer/">Instagram</a> Follo me here.</p>
+<p><a href="https://www.instagram.com/_the.believer/">Instagram</a> click here Follow me.</p>
  
