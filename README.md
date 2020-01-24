@@ -18,9 +18,10 @@ Food is life
 3. P house
 
 ##### Some of the Interesting and funny stories that were happend becuase of the Biryani.
-[retr](https://www.indianeagle.com/travelbeats/funny-interesting-biryani-stories-in-india/)
+<p><a href="https://www.indianeagle.com/travelbeats/funny-interesting-biryani-stories-in-india/">Stories</a></p>
 
-#### recipe for the dish 
+#### <p><a href="https://www.indianhealthyrecipes.com/hyderabadi-biryani-recipe/">Recipe</a> for the dish.</p>
+
 [retr](https://www.indianhealthyrecipes.com/hyderabadi-biryani-recipe/)
 
 <p><a href="https://www.instagram.com/_the.believer/">Instagram</a> click here Follow me.</p>
